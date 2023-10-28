@@ -1,0 +1,11 @@
+/* css is the cascading style sheet,it is a language which is used to describe the style of the document */
+/* rgb,hsl,hsb,hex */
+h1{
+    color: red;
+}
+body{
+    background-color: black;
+}
+button{
+    background-color: rgb(188, 109, 177);
+}
